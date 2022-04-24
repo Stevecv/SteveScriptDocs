@@ -1,1 +1,2 @@
-
+Broadcast message
+``broadcast(<string>)``
