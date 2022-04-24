@@ -16,9 +16,11 @@ Send a message to all players online however will not send a message to the cons
 Useage:
 ``broadcast(<message>)``
 
-A cool bit of code::
+Example::
 
-   Some cool Code
+   onJoin() {
+    broadcast("Hey! A person joined!");
+   }
 
 .. code-block:: rst
 
