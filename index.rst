@@ -17,6 +17,9 @@ Useage:
 ``broadcast(<message>)``
 
 Example::
+  onJoin() {
+    broadcast("Someone joined!");
+  }
 .. code-block:: rst
   onJoin() {
     broadcast("Someone joined!");
