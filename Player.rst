@@ -6,10 +6,10 @@
 	  ├── Broadcast
 	  ├── Send
 
-Chat
+Player
 ====
 
-Sending messages to chat
+Getters
 ----
 
 Get Player
