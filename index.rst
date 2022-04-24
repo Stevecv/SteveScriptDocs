@@ -16,8 +16,7 @@ Sends a message to all players online however will not send a message to the con
 Useage:
 ``broadcast(<message>)``
 
-Example:
-
+A cool bit of code::
 onJoin() {
   broadcast("Someone joined!");
 }
