@@ -1,6 +1,6 @@
 index
 ├── Chat
-├─── Broadcast
+  ├── Broadcast
 
 Chat
 ====
@@ -16,7 +16,7 @@ Send a message to all players online however will not send a message to the cons
 Useage:
 ``broadcast(<message>)``
 
-Example:
+Example::
 .. code-block:: rst
   onJoin() {
     broadcast("Someone joined!");
