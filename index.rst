@@ -1,7 +1,7 @@
-.. toctree::
-	:maxdepth: 3
-
-	index
-	├── Chat
-		├── Broadcast
-		├── Send
+index
+├── Chat
+	├── Broadcast
+	├── Send
+├── Player
+	├── Getters
+		├── Get Player
