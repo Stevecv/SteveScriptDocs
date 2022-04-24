@@ -1,5 +1,10 @@
-index
+.. toctree::
+   :maxdepth: 2
 
+   Chat
+   Player
+
+index
 ├── Chat
 	├── Broadcast
 	├── Send
