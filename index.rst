@@ -17,8 +17,8 @@ Useage:
 ``broadcast(<message>)``
 
 A cool bit of code::
-onJoin() {
-  broadcast("Someone joined!");
-}
+  onJoin() {
+    broadcast("Someone joined!");
+  }
 .. code-block:: rst
 
