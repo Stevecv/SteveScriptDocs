@@ -1,6 +1,6 @@
 index
 ├── Chat
-  ├── Broadcast
+	├── Broadcast
 
 Chat
 ====
@@ -14,6 +14,6 @@ Send a message to all players online however will not send a message to the cons
 ``broadcast(<string>)``
 
 Example::
-   onJoin() {
-    broadcast("Hey! A person joined!");
-   }
+	onJoin() {
+		broadcast("Hey! A person joined!");
+	}
