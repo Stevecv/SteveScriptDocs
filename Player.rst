@@ -2,9 +2,8 @@
 	:maxdepth: 2
 
 	index
-    ├── Chat
-	  ├── Broadcast
-	  ├── Send
+    ├── Player
+	  ├── Get Player
 
 Player
 ====
