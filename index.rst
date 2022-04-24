@@ -1,3 +1,6 @@
+index
+├── Chat
+
 Chat
 ====
 
@@ -13,6 +16,8 @@ Useage:
 ``broadcast(<message>)``
 
 Example:
-``onMessage() {
-  broadcast("Cool message!");
-}``
+``
+onJoin() {
+  broadcast("Someone joined!");
+}
+``
