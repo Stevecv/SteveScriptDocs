@@ -1,11 +1,3 @@
-.. toctree::
-	:maxdepth: 2
-
-	index
-    ├── Chat
-	  ├── Broadcast
-	  ├── Send
-
 Chat
 ====
 
