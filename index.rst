@@ -18,3 +18,15 @@ Example::
 	onJoin() {
 		broadcast("Hey! A person joined!");
 	}
+	
+	
+Send
+~~~~
+Sends a message to the specified player
+``send(<string>, <player>)``
+
+Example::
+	
+	onJoin() {
+		send("Welcome back!", event.player);
+	}
