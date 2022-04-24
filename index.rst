@@ -9,9 +9,8 @@ Sending messages to chat
 
 Broadcasting
 ~~~~
+Send a message to all players online however will not send a message to the console
 ``broadcast(<string>)``
-
-Sends a message to all players online however will not send a message to the console
 
 Useage:
 ``broadcast(<message>)``
@@ -21,4 +20,3 @@ A cool bit of code::
     broadcast("Someone joined!");
   }
 .. code-block:: rst
-
