@@ -1,5 +1,6 @@
 index
 ├── Chat
+├─── Broadcast
 
 Chat
 ====
@@ -7,7 +8,7 @@ Chat
 Sending messages to chat
 ----
 
-Broadcasting
+Broadcast
 ~~~~
 Send a message to all players online however will not send a message to the console
 ``broadcast(<string>)``
